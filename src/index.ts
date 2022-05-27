@@ -1,5 +1,5 @@
-// import * as puppeteer from "puppeteer";
-import puppeteer from "puppeteer";
+import * as puppeteer from "puppeteer";
+// import puppeteer from "puppeteer";
 import "dotenv/config";
 const URL = "https://web.cse.unsw.edu.au/~apps/hopper/";
 
