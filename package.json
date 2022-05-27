@@ -1,0 +1,17 @@
+{
+  "name": "help-session-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Amir Nazari <nazarami2000@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "puppeteer": "^14.1.1"
+  },
+  "scripts": {
+    "dev": "nodemon src/index.ts"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
+}
